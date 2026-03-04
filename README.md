@@ -5,7 +5,7 @@
 ### Contatos:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-m-silva-ba0958378) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanda.989@hotmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:amanda.989@hotmail.com)
 
 <img src="https://raw.githubusercontent.com/amandams-dev/amandams-dev/output/snake.svg" alt="Snake animation" />
 
