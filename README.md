@@ -1,6 +1,6 @@
 ### Olá! Sou a Amanda!
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento back-end em Java, experiência em Spring Boot, APIs REST, bancos de dados SQL e versionamento de código com Git. Também possuo conhecimentos em Excel e Power BI, aplicados em análise e visualização de dados. Busco constantemente aprimorar minhas habilidades por meio de projetos práticos e estudos contínuos, desenvolvendo soluções eficientes e de qualidade.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end em Java. Tenho experiência em Spring Boot, criação de APIs REST, integração com bancos de dados SQL e versionamento de código com Git, aplicando boas práticas de programação e princípios de código limpo. Busco aprimorar continuamente minhas habilidades por meio de projetos práticos, explorando novas tecnologias e construindo soluções escaláveis e de qualidade.
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
