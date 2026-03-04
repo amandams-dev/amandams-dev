@@ -20,3 +20,7 @@ Também possuo conhecimentos em Excel e Power BI, com interesse em análise de d
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/amandams-dev/amandams-dev/output/snake.svg" alt="Snake animation" />
+</p>
