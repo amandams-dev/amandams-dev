@@ -22,14 +22,3 @@ Também possuo conhecimentos em Excel e Power BI, com interesse em análise de d
 <p align="center">
 <img src="https://raw.githubusercontent.com/amandams-dev/amandams-dev/output/snake.svg" alt="Snake animation" />
 </p>
-
-## Contatos
-
-<p>
-  <a href="https://www.linkedin.com/in/amanda-m-silva-ba0958378/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:amanda.989@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
