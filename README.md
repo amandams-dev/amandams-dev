@@ -10,6 +10,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 </p>
 
-<p align="center">
 <img src="https://raw.githubusercontent.com/amandams-dev/amandams-dev/output/snake.svg" alt="Snake animation" />
-</p>
+
+###
