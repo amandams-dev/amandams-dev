@@ -2,8 +2,6 @@
 
 Focused on becoming a Full Stack Java Developer, with an interest in back-end development, REST APIs, database integration and web application development. Currently working with Java, Spring Boot, SQL and Git, while also building skills in HTML, CSS and JavaScript to create complete, efficient and well-structured solutions.
 
-Based in São Paulo, Brazil.
-
 ### Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-m-silva-ba0958378) 
