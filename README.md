@@ -1,6 +1,6 @@
 ### Olá! Sou a Amanda!
 
->Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento back-end, APIs REST, integração com bancos de dados e boas práticas de programação. Atualmente, estudo e aplico habilidades em Java, Spring Boot, SQL e Git, buscando construir soluções escaláveis e eficientes, aplicando lógica e tecnologia para resolver problemas de forma prática e organizada.
+>Focused on back-end development, REST APIs, database integration and good programming practices. Currently working with Java, Spring Boot, SQL and Git, while also building skills in HTML, CSS and JavaScript to create complete and efficient web applications.
 
 ### Contatos:
 
