@@ -1,6 +1,6 @@
 ### Hi, I'm Amanda!
 
-Software developer in progress with a focus on Java and Python, interested in software development and the data field. I have knowledge of programming logic, databases (SQL), and Git, and I am constantly improving my skills through practical projects. My goal is to grow professionally in the tech field, contributing to efficient and high-quality solutions.
+Aspiring software developer with a focus on Java and Python, with knowledge of SQL, Git, and programming fundamentals. Currently learning Spring Boot and developing practical projects, including RESTful APIs, to strengthen my skills. Familiar with object-oriented programming, databases, and agile methodologies. Interested in backend development and motivated to build efficient, scalable, and well-structured solutions while continuously evolving in the tech field.
 
 ### Contacts:
 
