@@ -2,11 +2,11 @@
 
 ## 𑄝੭ About Me
 
- I'm a Backend Developer focused on Java, Spring Boot, SQL and REST APIs.
- I have a degree in Systems Analysis and Development and I'm building my path in technology through practical projects and continuous learning.
- I enjoy turning ideas into organized, functional and well-structured backend solutions, combining programming logic, database concepts and clean code practices.
- Currently, I work with Java, Spring Boot, MySQL, Git and GitHub, developing projects that help me improve my skills in object-oriented programming, database modeling, version control and API development.
- My goal is to keep growing as a developer and contribute to solutions that are efficient, reliable and meaningful.
+I am a Back-end Developer with a degree in Systems Analysis and Development, focused on building organized, functional, and well-structured applications.
+
+I have been directing my studies and projects toward API development, database integration, object-oriented programming, and good development practices. I aim to write clean code, maintain well-organized projects, and understand each stage of building a system.
+
+Currently, I am improving my knowledge through practical projects, with the goal of strengthening my career in technology and contributing to efficient, reliable, and meaningful solutions.
 
 ## 𑄝੭ Languages & Technologies
 
